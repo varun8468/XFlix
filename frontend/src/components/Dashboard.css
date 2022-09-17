@@ -1,0 +1,6 @@
+.searchBox{
+    width: 150%;
+}
+.cancel-btn:hover{
+    cursor: pointer;
+}

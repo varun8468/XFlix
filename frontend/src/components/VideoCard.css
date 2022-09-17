@@ -1,0 +1,11 @@
+.css-bhp9pd-MuiPaper-root-MuiCard-root{
+    background-color: black;
+}
+
+
+.card-container{
+    transition: transform .2s;
+}
+.card-container:hover{
+    transform: scale(1.1);
+}

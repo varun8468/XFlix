@@ -1,0 +1,24 @@
+ .genre-container {
+  margin-left: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.rating-container{
+    margin: 0 auto;
+    min-width: 455px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+

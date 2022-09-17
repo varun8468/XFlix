@@ -1,0 +1,27 @@
+.iframe-container{
+    width: 100%;
+}
+
+.vote-container{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    align-items: center;
+}
+
+.vote-pill{
+    background-color: rgb(244, 231, 231);
+    width: 70px;
+    padding: 2px;
+    margin: 2px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.circle{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: gray;
+}
